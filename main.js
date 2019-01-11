@@ -1,0 +1,11 @@
+// alert ("Hello world");
+console.log("Hi in console");
+var myNumber = 90;
+console.log(myNumber);
+var mNumber = 45;
+console.log(myNumber+mNumber);
+var Hnhumber = 80;
+console.log(Hnhumber*mNumber);
+var nnumer="Hey";
+var number2="23";
+console.log("Number"+number2+nnumer);
